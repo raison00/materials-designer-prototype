@@ -22,3 +22,5 @@ Components, Variables, and Varients are used to systematically speed up design a
 
 <img width="785" alt="dropdown and color selector components" src="https://github.com/raison00/materials-designer-prototype/assets/8105802/8b27ea61-3ee4-4b2b-bb29-befe16f14c59">
 
+<img width="467" alt="base elevation and cards" src="https://github.com/raison00/materials-designer-prototype/assets/8105802/c47df966-fbc3-47bb-a7d9-16ddb923229d">
+
