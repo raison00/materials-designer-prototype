@@ -1,5 +1,7 @@
 # materials-designer-prototype
 Mat3ra Rewote assignment:  interactive clickable mockup and design for for Materials Designer
+
+[.fig file: Prototype-Menu-MaterialsDesigner-fc-122123.fig](https://github.com/raison00/materials-designer-prototype/blob/868284f7bbaadf6ab1915fd84e96aafff7245766/Prototype-Menu-MaterialsDesigner-fc-122123.fig)
 <img width="1023" alt="Rewote Materials Designer Prototype screen" src="https://github.com/raison00/materials-designer-prototype/assets/8105802/48e6039f-52ca-42ca-a82f-7bbeedaa2e3c">
 <img width="1023" alt="Mat3ra Materials Designer UX prototype" src="https://github.com/raison00/materials-designer-prototype/assets/8105802/c9aebf30-2667-42b9-8e56-e9f5587c923c">
 <img width="1023" alt="Mat3ra Materials Designer UX prototype" src="https://github.com/raison00/materials-designer-prototype/assets/8105802/e765fef6-79cc-41ff-9468-889feed9c69e">
