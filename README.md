@@ -11,5 +11,5 @@ If your screen is smaller or a different aspect ratio, use the 3 dots to select 
 <img width="249" alt="image" src="https://github.com/raison00/materials-designer-prototype/assets/8105802/85eefa62-0182-49cc-8bb9-8994367946cb">
 
 # of Note: materials designer prototype
-⋅⋅* You may need to have a guest account with Figma to view the prototyped link.
-⋅⋅* TODO: embed the prototype with code here 
+* You may need to have a guest account with Figma to view the prototyped link.
+* TODO: embed the prototype with code here 
