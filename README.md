@@ -1,5 +1,5 @@
 # materials-designer-prototype
-<img width="477" alt="document cover for Mat3ra interactive clickable mockup" src="https://github.com/raison00/materials-designer-prototype/assets/8105802/8e3b4ffe-1dce-469f-a835-095347d596d8">
+<img width="1023" alt="document cover for Mat3ra interactive clickable mockup" src="https://github.com/raison00/materials-designer-prototype/assets/8105802/8e3b4ffe-1dce-469f-a835-095347d596d8">
 
 Mat3ra Rewote assignment:  interactive clickable mockup and design for for Materials Designer
 
